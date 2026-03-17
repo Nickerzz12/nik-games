@@ -1,2 +1,0 @@
-# nik-games
-game nik
